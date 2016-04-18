@@ -8,6 +8,13 @@ Welcome to [FIRSTwiki](/docs/about/), a _[FIRST](/wiki/first)_ encyclopedia that
 anyone with a [github account](https://github.com/join) [can
 edit](/docs/contributing)!
 
+<div class="alert alert-info">
+You may notice there's not a lot of content here! There's a ton of content that needs to be copied
+from the <a href="https://github.com/firstwiki/original_archive" class="alert-link">original FIRSTwiki</a>
+and it would be wonderful if you could copy a few useful articles to this site! See our
+<a class="alert-link" href="/docs/contributing">contributing notes</a> for more details!
+</div>
+
 ### Teams
 
 * FRC:{% for num in site.data.teamdata.teamidx.frc %} [{{ num }}'s](/frc{{ num }}/) {% if forloop.last != true %}\|{% endif %}{% endfor %}
