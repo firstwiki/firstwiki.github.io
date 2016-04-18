@@ -7,7 +7,7 @@ Following the tenets of gracious professionalism, members contribute back to the
 community by recording useful information that other members can benefit from. 
 
 FIRSTwiki is a different kind of wiki, hosted on github pages instead of on a
-traditional wiki platform. See http://firstwiki.github.io/docs/contributing/
+traditional wiki platform. See http://firstwiki.github.io/docs/contributing
 for more information. It's unclear how well this form of wiki will work, but
 it's worth the experiment. :) 
 
