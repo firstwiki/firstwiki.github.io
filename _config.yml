@@ -1,0 +1,47 @@
+#
+# Common configuration for each firstwiki repo
+#
+
+permalink:        pretty
+
+exclude: [vendor, script]
+
+gems:
+  - jekyll-gist
+  - jekyll-paginate
+  
+author:
+  name:           FIRSTWiki Contributors
+  url:            http://firstwiki.github.io
+  email:
+
+# Setup
+title:            FIRSTwiki
+tagline:          The FIRST Robotics encyclopedia
+paginate:         5
+safe:             false
+
+data_dir:         _common/_data
+includes_dir:     _common/_includes
+layouts_dir:      _common/_layouts
+
+#
+# Begin specific configuration for this repo
+#
+
+url:              http://firstwiki.github.io
+baseurl:          
+
+# Collections aren't really supposed to be used this way, but it lets you
+# iterate over lists of pages to create indexes and such.. 
+collections:
+  docs:
+    output: true
+    permalink: /docs/:slug
+
+  # Only present in main site
+  common:
+    output: true
+    permalink: /common/:path
+    
+paginate_path: "news/:num"
