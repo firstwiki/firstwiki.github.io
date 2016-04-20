@@ -9,6 +9,7 @@ exclude: [vendor, script]
 gems:
   - jekyll-gist
   - jekyll-paginate
+  - jekyll-github-metadata
   
 author:
   name:           FIRSTWiki Contributors
@@ -19,7 +20,7 @@ author:
 title:            FIRSTwiki
 tagline:          The FIRST Robotics encyclopedia
 paginate:         5
-safe:             true
+safe:             false
 
 data_dir:         _common/_data
 includes_dir:     _common/_includes
