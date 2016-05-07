@@ -1,6 +1,8 @@
 FIRSTwiki: main site
 ====================
 
+[![Join the chat at https://gitter.im/firstwiki/wiki](https://badges.gitter.im/firstwiki/wiki.svg)](https://gitter.im/firstwiki/wiki)
+
 FIRSTwiki is an open-content encyclopedia about the FIRST Robotics Competition,
 designed to provide a useful resource for all aspects of the FIRST community.
 Following the tenets of gracious professionalism, members contribute back to the
