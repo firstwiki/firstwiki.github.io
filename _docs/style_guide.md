@@ -1,8 +1,8 @@
 ---
-layout: stub
 title: Style Guide
 ---
 
+{% include stub %}
 
 ## Creating pages (wiki)
 

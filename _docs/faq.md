@@ -1,7 +1,8 @@
 ---
-layout: stub
 title: Frequently Asked Questions
 ---
+
+{% include stub %}
 
 ### Why aren't you using wiki software like Wikipedia does?
 
