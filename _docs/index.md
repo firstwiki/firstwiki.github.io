@@ -10,5 +10,4 @@ information specific to FIRSTwiki.
 
 ### Index of documentation
 
-{% for doc in site.docs %}* [{{ doc.title}}]({{ doc.url }})
-{% endfor %}
+{% include collection_idx.html collection=site.docs %}
