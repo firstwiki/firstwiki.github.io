@@ -1,10 +1,29 @@
 ---
+layout: page
 title: Style Guide
 ---
 
 {% include stub %}
 
 ## Creating pages (wiki)
+
+TODO
+
+Example of a table:
+
+<pre>
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+</pre>
+
+Renders as
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
 
 ### On titles and slugs
 
