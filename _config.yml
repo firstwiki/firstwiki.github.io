@@ -13,7 +13,7 @@ gems:
   
 author:
   name:           FIRSTWiki Contributors
-  url:            http://firstwiki.github.io
+  url:            https://firstwiki.github.io
   email:
 
 # Setup
@@ -30,7 +30,7 @@ layouts_dir:      _common/_layouts
 # Begin specific configuration for this repo
 #
 
-url:              http://firstwiki.github.io
+url:              https://firstwiki.github.io
 baseurl:          
 
 # Collections aren't really supposed to be used this way, but it lets you
