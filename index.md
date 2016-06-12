@@ -23,11 +23,11 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 
 * Mechanical:
 Motors \|
-Pnuematics \|
-Drive Train \|
+[Pneumatics](/wiki/pneumatics) \|
+[Drive Train](/wiki/drive-train) \|
 Manufacturing
 * Electrical: 
-Control System \|
+[Control System](/wiki/control-system) \|
 Programming \|
 [Robot Code Directory](/wiki/robot-code-directory)
 
