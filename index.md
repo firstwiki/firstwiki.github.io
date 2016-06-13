@@ -22,24 +22,27 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 ### Technical Topics
 
 * Mechanical:
-Motors \|
+[Motors](/wiki/motors) \|
 [Pneumatics](/wiki/pneumatics) \|
 [Drive Train](/wiki/drive-train) \|
 Manufacturing
 * Electrical: 
 [Control System](/wiki/control-system) \|
-Programming \|
+[Programming](/wiki/programming) \|
 [Robot Code Directory](/wiki/robot-code-directory)
+* [All technical topics](/wiki/tech)
 
 
 ### Other Topics
 
 * Team management \|
 [FIRST Culture](/wiki/first-culture) \|
+[Fundraising](/wiki/fundraising) \|
 [Spirit](/wiki/spirit) \|
 [Scouting](/wiki/scouting) \|
 Organizations
-* [People](/wiki/people)
+* [People](/wiki/people) \|
+[All non-technical topics](/wiki/nontech)
 
 ### History
 
@@ -52,7 +55,7 @@ About FIRST
 _[FIRST](/wiki/first)_ is an organization founded by inventor [Dean
 Kamen](/wiki/dean-kamen) in 1989 as a way of getting students involved in and
 excited about science and technology. _FIRST_ has grown from just a few hundred
-students and mentors in 1992, and now reaches over 210,000 students worldwide.
+students and mentors in 1992, and now reaches over 400,000 students worldwide.
 
 FIRSTwiki news
 --------------
