@@ -64,3 +64,29 @@ FIRSTwiki news
 {% endfor %}
 
 
+<script>
+// this bit of script loads JSON for each project, and displays page counts
+$(document).ready(function(){
+  // wiki data
+  $.getJSON("/wiki/site-data.json", function(data){
+    $('#other-topics').append(" (" + (data.nontech + data.people) + " pages)");
+    $('#technical-topics').append(" (" + data.tech + " pages)");
+    $('#history').append(" (" + data.history + " pages)");
+  });
+  
+  // count the team pages
+  var teamdata = [{% for td in site.data.teamdata.teamidx.frc %}'{{ td }}'{% if forloop.last == false %},{% endif %}{% endfor %}];
+  
+  for (var i = 0; i < teamdata.length; i++) {
+      teamdata[i] = $.getJSON('/frc' + teamdata[i] + '/site-data.json', function(d) {return d});
+  }
+  
+  $.when.apply($, teamdata).done(function() {
+    var teamPages = 0;
+    for (var i = 0; i < arguments.length; i++) {
+        teamPages += arguments[i][0].frc;
+    }
+    $('#teams').append(" (" + teamPages + " pages)")
+  });
+});
+</script>
