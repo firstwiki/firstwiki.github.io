@@ -45,7 +45,15 @@ to your computer. [Here](https://guides.github.com/activities/forking/) is a gui
 to do that in the [Github Desktop](https://desktop.github.com) client, or
 [here](https://help.github.com/articles/fetching-a-remote/) is a guide on how to do it
 on the command line. Make your changes, commit them, push them back to GitHub, then
-create a pull request through the GitHub web interface. 
+create a pull request through the GitHub web interface.
+
+When editing locally, you need to check your changes in your web browser. To do this,
+run the following commands to set up the server to run locally:
+`gem install bundler` and `bundle install`
+Once that is done, you can start your site locally using the following command:
+`./run_server.sh`. You can simply save the page once you are done with the edits,
+and reload the page to see the new changes. The address will be listed when you
+run `./run_server.sh` of the local site, but usually `www.localhost:4000/` works too.
 
 Once your pull request has been created, a member of the [moderator
 team](/docs/moderators) will have to approve the changes. Your changes will be
