@@ -27,9 +27,10 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 [Drive Train](/wiki/drive-train) \|
 Manufacturing
 * [Electrical](/wiki/electrical): 
-[Control System](/wiki/control-system) \|
-[Programming](/wiki/programming) \|
-[Robot Code Directory](/wiki/robot-code-directory)
+[Control System](/wiki/control-system)
+* [Programming](/wiki/programming):
+[Robot Code Directory](/wiki/robot-code-directory) \|
+[Unofficial Software](/wiki/unofficial-software)
 * [All technical topics](/wiki/tech)
 
 
