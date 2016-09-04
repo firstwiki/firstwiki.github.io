@@ -1,6 +1,7 @@
 ---
 title: Content Guidelines
 layout: page
+tags: content
 ---
 
 To some extent, treat this as Wikipedia, and many of the same rules about

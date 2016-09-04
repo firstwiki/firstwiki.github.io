@@ -1,6 +1,7 @@
 ---
 layout: page
 title: FIRSTwiki Design
+tags: about
 ---
 
 FIRSTwiki is not a traditional wiki, instead we have elected to build it around

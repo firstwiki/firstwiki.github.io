@@ -7,7 +7,18 @@ permalink: /docs/index.html
 Welcome to FIRSTwiki! This section of the wiki is intended to contain
 information specific to FIRSTwiki.
 
+### About
 
-### Index of documentation
+{% include by_tag collection=site.docs tag="about" %}
 
-{% include collection_idx.html collection=site.docs %}
+### Contributing to FIRSTwiki
+
+{% include by_tag collection=site.docs tag="contributing" %}
+
+### Content structure
+
+{% include by_tag collection=site.docs tag="content" %}
+
+### Governance
+
+{% include by_tag collection=site.docs tag="governance" %}

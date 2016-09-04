@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Moderators
+tags: governance
 ---
 
 Because [FIRSTwiki is not a traditional wiki](/docs/design/), it isn't easy

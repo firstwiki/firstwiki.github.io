@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Terms and conditions
+tags: about
 ---
 
 By using this site, you agree that you have read all of the content below and

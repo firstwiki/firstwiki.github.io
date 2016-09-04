@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 layout: page
+tags: about
 ---
 
 {% include stub %}

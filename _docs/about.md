@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About FIRSTwiki
+tags: about
 ---
 
 FIRSTwiki is an open-content encyclopedia about the FIRST Robotics Competition,

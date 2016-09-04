@@ -1,29 +1,88 @@
 ---
 layout: page
 title: Style Guide
+tags: content
 ---
 
-{% include stub %}
+## Formatting pages (wiki)
 
-## Creating pages (wiki)
+As FIRSTwiki is not a traditional wiki, the format differs slightly from what
+Wikipedia uses. Here's some simple examples to get you going:
 
-TODO
+```
+## Use this header first
 
-Example of a table:
+This is some content in a paragraph.
+This is the same paragraph.
 
-<pre>
+This is a separate paragraph. And a link to a [website](https://firstwiki.github.io/).
+
+### A smaller header
+
+*This sentence is italicized*.
+
+**This sentence is bold**.
+
+* List item 1
+* List item 2
+
+Here's a table:
+
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-</pre>
 
-Renders as
+```
+
+And these render like so:
+
+<hr>
+
+## Use this header first
+
+This is some content in a paragraph.
+This is the same paragraph.
+
+This is a separate paragraph. And a link to a [website](https://firstwiki.github.io/).
+
+### A smaller header
+
+*This sentence is italicized*.
+
+**This sentence is bold**.
+
+* List item 1
+* List item 2
+
+Here's a table:
 
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
+
+<hr>
+
+### More formatting
+
+If you need other types of formatting, there's a lot of documentation out
+there. You can also [check out the original Markdown specification](https://daringfireball.net/projects/markdown/basics).
+
+### Linking to other pages (wiki)
+
+To link to a particular page in the wiki section you can do 
+
+```markdown
+[text](/wiki/slug)
+```
+
+Or if you're linking from a wiki article:
+
+```markdown
+[text](slug)
+```
+
 
 ### On titles and slugs
 
@@ -46,4 +105,12 @@ To prevent breaking external links to content, do <strong>NOT</strong> rename
 articles without adding a custom slug matching the old path!
 </div>
 
-For more information, see https://jekyllrb.com/docs/permalinks/
+For more information, see [https://jekyllrb.com/docs/permalinks/](https://jekyllrb.com/docs/permalinks/)
+
+### Tips
+
+* Prefer to use [liquid templates](https://jekyllrb.com/docs/templates/) and
+  [front-matter](https://jekyllrb.com/docs/frontmatter/) to display repetitive
+  content, instead of copy/pasting the same stuff across multiple pages
+
+* Check out the [advanced style guide](style-guide-advanced) for more stuff!

@@ -63,8 +63,9 @@ FIRSTwiki news
 
 [All news](/news/)
 
-{% for post in site.posts limit: 3 %}
-* {{ post.date | date_to_string }}: [{{ post.title }}]({{ post.url }})
+<ul>
+{% for post in site.posts limit: 5 %}
+<li>{{ post.date | date_to_string }}: <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
 
 
