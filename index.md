@@ -30,7 +30,7 @@ Manufacturing
 [Control System](/wiki/control-system)
 * [Programming](/wiki/programming):
 [Robot Code Directory](/wiki/robot-code-directory) \|
-[Unofficial Software](/wiki/unofficial-software)
+[Software](/wiki/software)
 * [All technical topics](/wiki/tech)
 
 
