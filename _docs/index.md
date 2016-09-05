@@ -22,3 +22,8 @@ information specific to FIRSTwiki.
 ### Governance
 
 {% include by_tag collection=site.docs tag="governance" %}
+
+### External sites
+
+* [Chat with us on gitter](https://gitter.im/firstwiki/wiki)
+* [Like us on Facebook](https://www.facebook.com/FIRSTwiki)
