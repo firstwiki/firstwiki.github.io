@@ -21,28 +21,28 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 
 ### Technical Topics
 
-* Mechanical:
+* **Mechanical**:
 [Motors](/wiki/motors) \|
 [Pneumatics](/wiki/pneumatics) \|
 [Drive Train](/wiki/drive-train) \|
 Manufacturing
-* [Electrical](/wiki/electrical): 
+* [**Electrical**](/wiki/electrical): 
 [Control System](/wiki/control-system)
-* [Programming](/wiki/programming):
+* [**Programming**](/wiki/programming):
 [Robot Code Directory](/wiki/robot-code-directory) \|
 [Software](/wiki/software)
-* [All technical topics](/wiki/tech)
+* [**All technical topics**](/wiki/tech)
 
 
 ### Other Topics
 
-* Team management \|
+* **Team management** \|
 [FIRST Culture](/wiki/first-culture) \|
 [Fundraising](/wiki/fundraising) \|
 [Spirit](/wiki/spirit) \|
 [Scouting](/wiki/scouting) \|
 Organizations
-* [People](/wiki/people) \|
+* [**People**](/wiki/people) \|
 [All non-technical topics](/wiki/nontech)
 
 ### History
