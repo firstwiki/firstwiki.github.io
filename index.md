@@ -47,7 +47,7 @@ Organizations
 
 ### History
 
-* [FRC Games](/wiki/FRC_Games) \| Control Systems \| Obsolete Parts
+* [FRC Games](/wiki/frc-games) \| Control Systems \| Obsolete Parts
 
   
 About FIRST
