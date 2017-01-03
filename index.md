@@ -24,13 +24,17 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 * **Mechanical**:
 [Motors](/wiki/motors) \|
 [Pneumatics](/wiki/pneumatics) \|
-[Drive Train](/wiki/drive-train) \|
 Manufacturing
 * [**Electrical**](/wiki/electrical): 
 [Control System](/wiki/control-system)
 * [**Programming**](/wiki/programming):
 [Robot Code Directory](/wiki/robot-code-directory) \|
 [Software](/wiki/software)
+* [**Design**](/wiki/design):
+[Drive Train](/wiki/drive-train) \|
+[Intakes](/wiki/intake) \|
+[Manipulators](/wiki/manipulator) \|
+[Shooters](/wiki/shooter)
 * [**All technical topics**](/wiki/tech)
 
 
