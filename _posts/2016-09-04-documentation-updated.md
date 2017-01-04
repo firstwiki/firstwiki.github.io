@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SIgnificant documentation updates
+title: Significant documentation updates
 ---
 
 This weekend has resulted in a lot of improvements to the documentation section!
