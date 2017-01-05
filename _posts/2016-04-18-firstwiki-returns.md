@@ -23,5 +23,5 @@ copied to this site -- I didn't want to directly copy it wholesale, but would
 rather have people curate the content and only put the interesting/relevant data
 here.
 
-See our [contribution guide](/docs/contributing/), and feel free to issue a
+See our [contribution guide](/docs/contributing), and feel free to issue a
 pull request with your changes! 
