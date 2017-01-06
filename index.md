@@ -51,7 +51,7 @@ Organizations
 
 ### History
 
-* [FRC Games](/wiki/frc-games) \| Control Systems \| Obsolete Parts
+* [FRC Games](/wiki/frc-games) \| Control Systems \| Obsolete Parts \| [Kit of Parts](/wiki/kit-of-parts)
 * [FRC Rules](/frcrules)
 
   
