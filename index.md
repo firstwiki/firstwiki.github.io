@@ -45,7 +45,7 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 * [Spirit](/wiki/spirit)
 * [Scouting](/wiki/scouting)
 * Organizations
-* [People](/wiki/people) \|
+* [People](/wiki/people)
 * [**All non-technical topics**](/wiki/nontech)
 
 #### History
