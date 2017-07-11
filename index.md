@@ -22,36 +22,38 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 ### Technical Topics
 
 * **Mechanical**:
-[Motors](/wiki/motors) \|
-[Pneumatics](/wiki/pneumatics) \|
-Manufacturing
-* [**Electrical**](/wiki/electrical): 
-[Control System](/wiki/control-system)
+  * [Motors](/wiki/motors)
+  * [Pneumatics](/wiki/pneumatics)
+  * Manufacturing
+* [**Electrical**](/wiki/electrical):
+  * [Control System](/wiki/control-system)
 * [**Programming**](/wiki/programming):
-[Robot Code Directory](/wiki/robot-code-directory) \|
-[Software](/wiki/software)
+  * [Robot Code Directory](/wiki/robot-code-directory)
+  * [Software](/wiki/software)
 * [**Design**](/wiki/design):
-[Drive Train](/wiki/drive-train) \|
-[Intakes](/wiki/intake) \|
-[Manipulators](/wiki/manipulator) \|
-[Shooters](/wiki/shooter)
+  * [Drive Train](/wiki/drive-train)
+  * [Intakes](/wiki/intake)
+  * [Manipulators](/wiki/manipulator)
+  * [Shooters](/wiki/shooter)
 * [**All technical topics**](/wiki/tech)
 
 
 ### Other Topics
 
-* **Team management** \|
-[FIRST Culture](/wiki/first-culture) \|
-[Fundraising](/wiki/fundraising) \|
-[Spirit](/wiki/spirit) \|
-[Scouting](/wiki/scouting) \|
-Organizations
-* [**People**](/wiki/people) \|
-[All non-technical topics](/wiki/nontech)
+* [FIRST Culture](/wiki/first-culture)
+* [Fundraising](/wiki/fundraising)
+* [Spirit](/wiki/spirit)
+* [Scouting](/wiki/scouting)
+* Organizations
+* [People](/wiki/people) \|
+* [**All non-technical topics**](/wiki/nontech)
 
-### History
+#### History
 
-* [FRC Games](/wiki/frc-games) \| Control Systems \| Obsolete Parts \| [Kit of Parts](/wiki/kit-of-parts)
+* [FRC Games](/wiki/frc-games)
+* Control Systems
+* Obsolete Parts
+* [Kit of Parts](/wiki/kit-of-parts)
 * [FRC Rules](/frcrules)
 
   
