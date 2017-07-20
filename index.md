@@ -52,7 +52,7 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 
 * [FRC Games](/wiki/frc-games)
 * Control Systems
-* Obsolete Parts
+* [Obsolete Parts](/wiki/obsolete-parts)
 * [Kit of Parts](/wiki/kit-of-parts)
 * [FRC Rules](/frcrules)
 
