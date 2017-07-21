@@ -51,7 +51,7 @@ and it would be wonderful if you could copy a few useful articles to this site! 
 #### History
 
 * [FRC Games](/wiki/frc-games)
-* Control Systems
+* [Control Systems](/wiki/control-system)
 * [Obsolete Parts](/wiki/obsolete-parts)
 * [Kit of Parts](/wiki/kit-of-parts)
 * [FRC Rules](/frcrules)
