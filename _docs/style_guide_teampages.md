@@ -24,8 +24,8 @@ team:
   - Sponsor 1
   - Sponsor 2
   links:
-    Website: 
-    Github: https://github.com/FRC0000
+    Website:
+    GitHub: https://github.com/FRC0000
 robot_code:
   2016:
   - Robot:
